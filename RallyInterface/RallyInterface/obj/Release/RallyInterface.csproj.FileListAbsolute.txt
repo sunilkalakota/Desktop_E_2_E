@@ -1,0 +1,14 @@
+D:\Temp\RallyInterface\RallyInterface\bin\Release\RallyInterface.exe.config
+D:\Temp\RallyInterface\RallyInterface\bin\Release\RallyInterface.exe
+D:\Temp\RallyInterface\RallyInterface\bin\Release\RallyInterface.pdb
+D:\Temp\RallyInterface\RallyInterface\bin\Release\HtmlAgilityPack.dll
+D:\Temp\RallyInterface\RallyInterface\bin\Release\Rally.RestApi.dll
+D:\Temp\RallyInterface\RallyInterface\bin\Release\HtmlAgilityPack.pdb
+D:\Temp\RallyInterface\RallyInterface\bin\Release\HtmlAgilityPack.xml
+D:\Temp\RallyInterface\RallyInterface\bin\Release\Rally.RestApi.pdb
+D:\Temp\RallyInterface\RallyInterface\bin\Release\Rally.RestApi.xml
+D:\Temp\RallyInterface\RallyInterface\obj\Release\RestAPI.Resource1.resources
+D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.csproj.GenerateResource.Cache
+D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.exe
+D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.pdb
+D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.csprojResolveAssemblyReference.cache

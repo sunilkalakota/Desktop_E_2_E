@@ -1,0 +1,22 @@
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\RallyInterface.exe.config
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\RallyInterface.exe
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\RallyInterface.pdb
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\HtmlAgilityPack.dll
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\Rally.RestApi.dll
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\HtmlAgilityPack.pdb
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\HtmlAgilityPack.xml
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\Rally.RestApi.pdb
+C:\E2E Automation\RallyInterface\RallyInterface\bin\Debug\Rally.RestApi.xml
+C:\E2E Automation\RallyInterface\RallyInterface\obj\Debug\RallyInterface.csprojResolveAssemblyReference.cache
+C:\E2E Automation\RallyInterface\RallyInterface\obj\Debug\RallyInterface.exe
+C:\E2E Automation\RallyInterface\RallyInterface\obj\Debug\RallyInterface.pdb
+C:\E2E Automation\RallyInterface\RallyInterface\obj\Debug\RallyInterface.Resource1.resources
+C:\E2E Automation\RallyInterface\RallyInterface\obj\Debug\RallyInterface.csproj.GenerateResource.Cache
+D:\Temp\RallyInterface\RallyInterface\bin\Debug\RallyInterface.exe.config
+D:\Temp\RallyInterface\RallyInterface\bin\Debug\RallyInterface.exe
+D:\Temp\RallyInterface\RallyInterface\bin\Debug\RallyInterface.pdb
+D:\Temp\RallyInterface\RallyInterface\obj\Debug\RallyInterface.csprojResolveAssemblyReference.cache
+D:\Temp\RallyInterface\RallyInterface\obj\Debug\RestAPI.Resource1.resources
+D:\Temp\RallyInterface\RallyInterface\obj\Debug\RallyInterface.csproj.GenerateResource.Cache
+D:\Temp\RallyInterface\RallyInterface\obj\Debug\RallyInterface.exe
+D:\Temp\RallyInterface\RallyInterface\obj\Debug\RallyInterface.pdb
