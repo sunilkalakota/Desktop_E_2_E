@@ -12,3 +12,17 @@ D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.csproj.Generate
 D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.exe
 D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.pdb
 D:\Temp\RallyInterface\RallyInterface\obj\Release\RallyInterface.csprojResolveAssemblyReference.cache
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\RallyInterface.exe.config
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\RallyInterface.exe
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\RallyInterface.pdb
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\HtmlAgilityPack.dll
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\Rally.RestApi.dll
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\HtmlAgilityPack.pdb
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\HtmlAgilityPack.xml
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\Rally.RestApi.pdb
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\bin\Release\Rally.RestApi.xml
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\obj\Release\RallyInterface.csprojResolveAssemblyReference.cache
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\obj\Release\RestAPI.Resource1.resources
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\obj\Release\RallyInterface.csproj.GenerateResource.Cache
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\obj\Release\RallyInterface.exe
+C:\Users\skkalakota\Documents\GitHub\Desktop_E_2_E\RallyInterface\RallyInterface\obj\Release\RallyInterface.pdb

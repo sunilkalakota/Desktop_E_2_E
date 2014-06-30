@@ -22,11 +22,11 @@ namespace RestAPI
        //LogDefect Methig will hold three parameters as input
        public static void LogDefect(string[] arrayvalues)
        {
-           //string strXmlFilePath = arrayvalues[0]; //XML Read Path
-           //string strXMLParentNode = arrayvalues[1]; //XML Parent Node
+           string strXmlFilePath = arrayvalues[0]; //XML Read Path
+           string strXMLParentNode = arrayvalues[1]; //XML Parent Node
 
-           string strXmlFilePath = "C:\\Temp\\DefectXMLLog.xml"; //XML Read Path
-           string strXMLParentNode = "DefectDetails"; //XML Parent Node
+           //string strXmlFilePath = "C:\\Temp\\DefectXMLLog.xml"; //XML Read Path
+           //string strXMLParentNode = "DefectDetails"; //XML Parent Node
 
            //Getting Rally UserName and Password
             string strusername = CommonMethods.Readxmlvalue(strXmlFilePath, strXMLParentNode, "UserName");
